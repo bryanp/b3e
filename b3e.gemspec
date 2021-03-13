@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
 
   spec.license = "MPL-2.0"
 
-  spec.files = Dir["CHANGELOG.md", "README.md", "LICENSE", "lib/**/*"]
+  spec.files = Dir["CHANGELOG.md", "README.md", "LICENSE", "lib/**/*", "ext/**/*"]
   spec.require_path = "lib"
 
   spec.extensions = %w[ext/b3e/extconf.rb]
