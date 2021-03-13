@@ -50,7 +50,7 @@ ruby:
     path: "b3e"
     namespace: "B3e"
     extra: |-2
-        spec.files = Dir["CHANGELOG.md", "README.md", "LICENSE", "lib/**/*"]
+        spec.files = Dir["CHANGELOG.md", "README.md", "LICENSE", "lib/**/*", "ext/**/*"]
         spec.require_path = "lib"
 
         spec.extensions = %w[ext/b3e/extconf.rb]
