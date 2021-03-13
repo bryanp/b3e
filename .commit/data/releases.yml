@@ -1,5 +1,7 @@
 ---
 - version: v0.0.0
+  date: 'v0.0.0'
+  link: https://github.com/metabahn/b3e/releases/tag/v0.0.0
   changes:
   - id: 1
     type: add
