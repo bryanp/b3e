@@ -78,6 +78,6 @@ libraries, but keep this in mind if your encodings need to be consumed by other 
 
 Here's a couple other approaches in the Ruby ecosystem:
 
-* [`b3bm`](https://github.com/metabahn/b3bm): Counterpart to `b3e`, but generates more portable encodings a lot more slowly.
+* [`b3bm`](https://github.com/bryanp/b3bm): Counterpart to `b3e` that generates more portable encodings a lot more slowly.
 * [`base62-rb`](https://github.com/steventen/base62-rb): Base62 encoder/decoder for integers, implemented in Ruby.
 * [`yab62`](https://github.com/siong1987/yab62): Base62 encoder/decoder for integers, implemented in C.

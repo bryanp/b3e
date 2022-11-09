@@ -1,23 +1,23 @@
 ---
 - version: v0.1.0
   date: '2021-03-13'
-  link: https://github.com/metabahn/b3e/releases/tag/v0.1.0
+  link: https://github.com/bryanp/b3e/releases/tag/v0.1.0
   changes:
   - id: 2
     type: fix
     summary: Include the ext directory in the gem
-    link: https://github.com/metabahn/b3e/pull/2
+    link: https://github.com/bryanp/b3e/pull/2
     author:
       username: bryanp
       link: https://github.com/bryanp
 - version: v0.0.0
   date: '2021-03-13'
-  link: https://github.com/metabahn/b3e/releases/tag/v0.0.0
+  link: https://github.com/bryanp/b3e/releases/tag/v0.0.0
   changes:
   - id: 1
     type: add
     summary: Initial b3e implementation
-    link: https://github.com/metabahn/b3e/pull/1
+    link: https://github.com/bryanp/b3e/pull/1
     author:
       username: bryanp
       link: https://github.com/bryanp
