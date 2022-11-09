@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.description = spec.summary
 
   spec.author = "Bryan Powell"
-  spec.email = "bryan@metabahn.com"
-  spec.homepage = "https://github.com/metabahn/b3e/"
+  spec.email = "bryan@bryanp.org"
+  spec.homepage = "https://github.com/bryanp/b3e/"
 
   spec.required_ruby_version = ">= 2.6.7"
 
